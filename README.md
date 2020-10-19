@@ -2,7 +2,7 @@
 
 ## ScreenShot
 
-![ArticleSort](./images/ScreenShot.png)
+![ArticleSort](./ScreenShot.png)
 
 ## WebLink
 
